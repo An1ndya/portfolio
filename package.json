@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": ".",
+  "homepage": "https://an1ndya.github.io/profile",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
