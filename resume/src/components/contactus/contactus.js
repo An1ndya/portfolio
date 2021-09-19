@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-export default class Contact extends Component {
+export default class contactus extends Component {
   render() {
     return (
       <React.Fragment>
