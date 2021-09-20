@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 export default class Hero extends Component {
   render() {
+    let resumeData = this.props.resumeData;
     return (
       <React.Fragment>
       <section id="hero" className="s-hero target-section">
@@ -8,7 +9,7 @@ export default class Hero extends Component {
         <div className="row s-hero__content">
           <div className="column">
             <div className="s-hero__content-about">
-              <h1>I'm Jonathan Doe.</h1>
+              <h1>I'm {resumeData.name}.</h1>
               <h3>
                 I'm a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and
                 effective visual identities for companies of all sizes around the globe. Let's <a className="smoothscroll" href="#about">start scrolling</a>
