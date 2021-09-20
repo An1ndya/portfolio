@@ -16,7 +16,7 @@ export default class Testimonials extends Component {
               <div className="swiper-wrapper">
                 <div className="testimonial-slider__slide swiper-slide">
                   <div className="testimonial-slider__author">
-                    <img src="images/avatars/user-02.jpg" alt="Author image" className="testimonial-slider__avatar" />
+                    <img src="images/avatars/user-02.jpg" alt="Author " className="testimonial-slider__avatar" />
                     <cite className="testimonial-slider__cite">
                       <strong>Tim Cook</strong>
                       <span>CEO, Apple</span>
@@ -30,7 +30,7 @@ export default class Testimonials extends Component {
                 </div> {/* end testimonial-slider__slide */}
                 <div className="testimonial-slider__slide swiper-slide">
                   <div className="testimonial-slider__author">
-                    <img src="images/avatars/user-03.jpg" alt="Author image" className="testimonial-slider__avatar" />
+                    <img src="images/avatars/user-03.jpg" alt="Author " className="testimonial-slider__avatar" />
                     <cite className="testimonial-slider__cite">
                       <strong>Sundar Pichai</strong>
                       <span>CEO, Google</span>
@@ -44,7 +44,7 @@ export default class Testimonials extends Component {
                 </div> {/* end testimonial-slider__slide */}
                 <div className="testimonial-slider__slide swiper-slide">
                   <div className="testimonial-slider__author">
-                    <img src="images/avatars/user-04.jpg" alt="Author image" className="testimonial-slider__avatar" />
+                    <img src="images/avatars/user-04.jpg" alt="Author " className="testimonial-slider__avatar" />
                     <cite className="testimonial-slider__cite">
                       <strong>Satya Nadella</strong>
                       <span>CEO, Microsoft</span>
@@ -58,7 +58,7 @@ export default class Testimonials extends Component {
                 </div> {/* end testimonial-slider__slide */}
                 <div className="testimonial-slider__slide swiper-slide">
                   <div className="testimonial-slider__author">
-                    <img src="images/avatars/user-05.jpg" alt="Author image" className="testimonial-slider__avatar" />
+                    <img src="images/avatars/user-05.jpg" alt="Author " className="testimonial-slider__avatar" />
                     <cite className="testimonial-slider__cite">
                       <strong>Jeff Bezos</strong>
                       <span>CEO, Amazon</span>
